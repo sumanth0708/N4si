@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumanth0708" alt="sumanth0708" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python full stack**
 
-- 🌱 I’m currently learning **Python in Pythonlife**
+- 🌱 I’m currently learning **Python full stack with Ai in Codegnan**
 
-- 📫 How to reach me **vsumanthreddy36@gmail.com**
+- 📫 How to reach me **sumanthreddyvintha24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
